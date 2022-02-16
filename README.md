@@ -1,5 +1,5 @@
 # selinux.galaxy
-This is an ansible role which sets up a selinux module for galaxy project 
+This is an ansible role which sets up a selinux module for galaxy project. Aknowledgments to Sjur Hernes from USIT - UiO who helped with the code.
 
 ## Some info about the affected directories.
 
